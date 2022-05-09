@@ -1,0 +1,6 @@
+	TOKENS			     LEXEMES
+
+IDENTIFIER		=		a
+OPERATOR		=		+
+IDENTIFIER		=		b
+SEPARATOR		=		;
